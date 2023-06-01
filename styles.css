@@ -1,0 +1,59 @@
+/* The code on lines 3-7 makes the background of the header black and the text of the title of the webpage white. Change this to match what you want for your website! */
+header {
+    background-color: brown;
+    color: white;
+    padding: 128px 16px;
+}
+
+.SectionD {
+    border: 3px dashed #670178;
+    font-size: 17px;
+    
+}
+
+.sectiong {
+    border: 3px dashed black;
+    font-size: 17px;
+}
+
+.sectionh {
+    border: 3px dashed #670178;
+    font-size: 17px;
+}
+
+.photo1 {
+    height: 102px;
+    float: right;
+    border: dashed black;
+}
+
+.photo2 {
+    height: 120px;
+    float: right;
+    border: dashed #670178;
+}
+
+.photo3 {
+    height: 105px;
+    width: 120px;
+    float: right;
+    border: dashed black;
+}
+
+.DM {
+    border: dashed #8b0000;
+    
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+}
+.links1{
+    display: flex;
+    justify-content: space-between;
+}
+.full{
+   background-color:  #e8d1bd;
+    
+}
+
